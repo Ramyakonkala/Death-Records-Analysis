@@ -1,0 +1,6 @@
+prefix,Code,Description
+MaritalStatus,S,Never married or single
+MaritalStatus,M,Married
+MaritalStatus,W,Widowed
+MaritalStatus,D,Divorced
+MaritalStatus,U,Marital Status unknown

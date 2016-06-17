@@ -1,0 +1,3 @@
+prefix,Code,Description
+BridgedRaceFlag,0,Race is not bridged
+BridgedRaceFlag,1,Race is bridged

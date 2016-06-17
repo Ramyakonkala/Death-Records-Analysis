@@ -1,0 +1,17 @@
+prefix,Code,Description
+Race,0,Other races
+Race,1,White
+Race,2,Black
+Race,3,American Indian (includes Aleuts and Eskimos)
+Race,4,Chinese
+Race,5,Japanese
+Race,6,Hawaiian (includes Part-Hawaiian)
+Race,7,Filipino
+Race,8,Other Asian or Pacific Islander
+Race,18,Asian Indian
+Race,28,Korean
+Race,38,Samoan
+Race,48,Vietnamese
+Race,58,Guamanian
+Race,68,Other Asian or Pacific Islander in areas reporting codes 18-58
+Race,78,Combined other Asian or Pacific Islander includes codes 18-68 for areas that do not report them separately

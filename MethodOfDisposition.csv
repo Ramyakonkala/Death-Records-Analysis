@@ -1,0 +1,5 @@
+prefix,Code,Description
+MethodOfDisposition,B,Burial
+MethodOfDisposition,C,Cremation
+MethodOfDisposition,O,Other
+MethodOfDisposition,U,Unknown

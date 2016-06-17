@@ -1,0 +1,28 @@
+prefix,Code,Description
+AgeRecode27,1,Under 1 month (includes not stated weeks days hours and minutes)
+AgeRecode27,2,1 month - 11 months (includes not stated months)
+AgeRecode27,3,1 year
+AgeRecode27,4,2 years
+AgeRecode27,5,3 years
+AgeRecode27,6,4 years
+AgeRecode27,7,5 - 9 years
+AgeRecode27,8,10 - 14 years
+AgeRecode27,9,15 - 19 years
+AgeRecode27,10,20 - 24 years
+AgeRecode27,11,25 - 29 years
+AgeRecode27,12,30 - 34 years
+AgeRecode27,13,35 - 39 years
+AgeRecode27,14,40 - 44 years
+AgeRecode27,15,45 - 49 years
+AgeRecode27,16,50 - 54 years
+AgeRecode27,17,55 - 59 years
+AgeRecode27,18,60 - 64 years
+AgeRecode27,19,65 - 69 years
+AgeRecode27,20,70 - 74 years
+AgeRecode27,21,75 - 79 years
+AgeRecode27,22,80 - 84 years
+AgeRecode27,23,85 - 89 years
+AgeRecode27,24,90 - 94 years
+AgeRecode27,25,95 - 99 years
+AgeRecode27,26,100 years and over
+AgeRecode27,27,Age not stated

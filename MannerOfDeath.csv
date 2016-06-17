@@ -1,0 +1,9 @@
+prefix,Code,Description
+MannerOfDeath,1,Accident
+MannerOfDeath,2,Suicide
+MannerOfDeath,3,Homicide
+MannerOfDeath,4,Pending investigation
+MannerOfDeath,5,Could not determine
+MannerOfDeath,6,Self-Inflicted
+MannerOfDeath,7,Natural
+MannerOfDeath,0,Not specified

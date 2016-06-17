@@ -1,0 +1,4 @@
+prefix,Code,Description
+EducationReportingFlag,0,1989 revision of education item on certificate
+EducationReportingFlag,1,2003 revision of education item on certificate
+EducationReportingFlag,2,no education item on certificate

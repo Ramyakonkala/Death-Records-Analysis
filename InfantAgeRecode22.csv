@@ -1,0 +1,24 @@
+prefix,Code,Description
+InfantAgeRecode22,0,Age 1 year and over or not stated
+InfantAgeRecode23,1,Under 1 hour (includes not stated hours and minutes)
+InfantAgeRecode24,2,1 - 23 hours
+InfantAgeRecode25,3,1 day (includes not stated days)
+InfantAgeRecode26,4,2 days
+InfantAgeRecode27,5,3 days
+InfantAgeRecode28,6,4 days
+InfantAgeRecode29,7,5 days
+InfantAgeRecode30,8,6 days
+InfantAgeRecode31,9,7-13 days (includes not stated weeks)
+InfantAgeRecode32,10,14 - 20 days
+InfantAgeRecode33,11,21 - 27 days
+InfantAgeRecode34,12,1 month (includes not stated months)
+InfantAgeRecode35,13,2 months
+InfantAgeRecode36,14,3 months
+InfantAgeRecode37,15,4 months
+InfantAgeRecode38,16,5 months
+InfantAgeRecode39,17,6 months
+InfantAgeRecode40,18,7 months
+InfantAgeRecode41,19,8 months
+InfantAgeRecode42,20,9 months
+InfantAgeRecode42,21,10 months
+InfantAgeRecode42,22,11 months

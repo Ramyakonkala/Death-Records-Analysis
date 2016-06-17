@@ -1,0 +1,12 @@
+prefix,Code,Description
+PlaceOfInjury,0,Home
+PlaceOfInjury,1,Residential institution
+PlaceOfInjury,2,School or other institution and public administrative area
+PlaceOfInjury,3,Sports and athletics area
+PlaceOfInjury,4,Street and highway
+PlaceOfInjury,5,Trade and service area
+PlaceOfInjury,6,Industrial and construction area
+PlaceOfInjury,7,Farm
+PlaceOfInjury,8,Other Specified Places
+PlaceOfInjury,9,Unspecified place
+PlaceOfInjury,99,Causes other than W00-Y34 except Y06 and Y07

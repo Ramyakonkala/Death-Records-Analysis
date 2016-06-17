@@ -1,0 +1,9 @@
+prefix,Code,Description
+ActivityCode,0,While engaged in sports activity
+ActivityCode,1,While engaged in leisure activity
+ActivityCode,2,While working for income
+ActivityCode,3,While engaged in other types of work
+ActivityCode,4,While resting
+ActivityCode,8,While engaged in other specified activities
+ActivityCode,9,During unspecified activity
+ActivityCode,99,Not applicable

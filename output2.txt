@@ -1,0 +1,60 @@
+most_occurance_disease##Chronic lymphocytic leukaemia of B-cell type	1
+most_occurance_disease##"Malignant neoplasm: Mediastinum	1
+most_occurance_disease##Congestive heart failure	1
+most_occurance_disease##Alcoholic hepatitis	1
+most_occurance_disease##"Acute ischaemic heart disease	1
+most_occurance_disease##"Rheumatoid arthritis	1
+most_occurance_disease##Cardiomegaly	1
+most_occurance_disease##"Degenerative disease of nervous system	1
+most_occurance_disease##Chronic obstructive pulmonary disease with acute lower respiratory infection	2
+most_occurance_disease##"Acute myocardial infarction	3
+most_occurance_disease##Stroke not specified as haemorrhage or infarction	2
+most_occurance_disease##Fall on same level involving ice and snow	1
+most_occurance_disease##Disseminated intravascular coagulation [defibrination syndrome]	1
+most_occurance_disease##Atrial fibrillation and flutter	2
+most_occurance_disease##Other and unspecified lesions of oral mucosa	1
+most_occurance_disease##Ventral hernia without obstruction or gangrene	1
+most_occurance_disease##"Malignant neoplasm: Pancreas	2
+most_occurance_disease##"Cardiomyopathy	1
+most_occurance_disease##Acute myeloblastic leukaemia [AML]	1
+most_occurance_disease##Malignant neoplasm: Appendix	1
+most_occurance_disease##"Intentional self-harm by hanging	2
+most_occurance_disease##Unspecified dementia	3
+most_occurance_disease##"Chronic obstructive pulmonary disease	6
+most_occurance_disease##"Malignant neoplasm: Oesophagus	4
+most_occurance_disease##Huntington disease	1
+most_occurance_disease##"Intentional self-harm by rifle	1
+most_occurance_disease##"Vascular disorder of intestine	1
+most_occurance_disease##Exposure to unspecified factor causing fracture	1
+most_occurance_disease##Other ill-defined and unspecified causes of mortality	1
+most_occurance_disease##Parkinson disease	1
+most_occurance_disease##"Non-Hodgkin lymphoma	1
+most_occurance_disease##"Vascular dementia	1
+most_occurance_disease##Unspecified diabetes mellitus: With peripheral circulatory complications	1
+most_occurance_disease##"Accidental poisoning by and exposure to antiepileptic	1
+most_occurance_disease##"Staphylococcal infection	1
+most_occurance_disease##"Sequelae of stroke	1
+most_occurance_disease##Ischaemic cardiomyopathy	1
+most_occurance_disease##Pneumonitis due to food and vomit	1
+most_occurance_disease##Non-insulin-dependent diabetes mellitus: With peripheral circulatory complications	1
+most_occurance_disease##Person injured in collision between other specified motor vehicles (traffic)	3
+most_occurance_disease##"Malignant neoplasm: Bladder	1
+most_occurance_disease##Unspecified diabetes mellitus: With renal complications	1
+most_occurance_disease##"Person injured in unspecified motor-vehicle accident	1
+most_occurance_disease##"Malignant neoplasm: Bronchus or lung	5
+most_occurance_disease##"Peripheral T-cell lymphoma	1
+most_occurance_disease##Aortic (valve) stenosis	2
+most_occurance_disease##Other obesity	1
+most_occurance_disease##HIV disease resulting in other infectious and parasitic diseases	1
+most_occurance_disease##"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens]	1
+most_occurance_disease##"Malignant neoplasm: Breast	1
+most_occurance_disease##Malignant neoplasm: Intrahepatic bile duct carcinoma	1
+most_occurance_disease##Malignant neoplasm of prostate	1
+most_occurance_disease##"Malignant neoplasm: Colon	1
+most_occurance_disease##Essential (primary) hypertension	1
+most_occurance_disease##Intentional self-harm by handgun discharge	5
+most_occurance_disease##"Pneumonia	1
+most_occurance_disease##"Meningitis	1
+most_occurance_disease##"Malignant neoplasm	1
+most_occurance_disease##Atherosclerotic cardiovascular disease	8
+most_occurance_disease##Atherosclerotic heart disease	5

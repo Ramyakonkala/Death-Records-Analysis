@@ -1,0 +1,13 @@
+prefix,Code,Description
+AgeRecode12,1,Under 1 year (includes not stated infant ages)
+AgeRecode12,2,1 - 4 years
+AgeRecode12,3,5 - 14 years
+AgeRecode12,4,15 - 24 years
+AgeRecode12,5,25 - 34 years
+AgeRecode12,6,35 - 44 years
+AgeRecode12,7,45 - 54 years
+AgeRecode12,8,55 - 64 years
+AgeRecode12,9,65 - 74 years
+AgeRecode12,10,75 - 84 years
+AgeRecode12,11,85 years and over
+AgeRecode12,12,Age not stated

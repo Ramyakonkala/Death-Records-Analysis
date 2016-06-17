@@ -1,0 +1,7 @@
+prefix,Code,Description
+AgeType,1,Years
+AgeType,2,Months
+AgeType,4,Days
+AgeType,5,Hours
+AgeType,6,Minutes
+AgeType,9,Age not stated

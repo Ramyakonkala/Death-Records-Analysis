@@ -1,0 +1,4 @@
+prefix,Code,Description
+RaceImputationFlag,0,Race is not imputed
+RaceImputationFlag,1,Unknown race is imputed
+RaceImputationFlag,2,All other races is imputed

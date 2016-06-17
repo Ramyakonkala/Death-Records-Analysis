@@ -1,0 +1,9 @@
+prefix,Code,Description
+PlaceOfDeathAndDecedentsStatus,1,Hospital or clinic or Medical Center - Inpatient
+PlaceOfDeathAndDecedentsStatus,2,Hospital or Clinic or Medical Center - Outpatient or admitted to Emergency Room
+PlaceOfDeathAndDecedentsStatus,3,Hospital or Clinic or Medical Center - Dead on Arrival
+PlaceOfDeathAndDecedentsStatus,4,Decedents home
+PlaceOfDeathAndDecedentsStatus,5,Hospice facility
+PlaceOfDeathAndDecedentsStatus,6,Nursing home or long term care
+PlaceOfDeathAndDecedentsStatus,7,Other
+PlaceOfDeathAndDecedentsStatus,9,Place of death unknown

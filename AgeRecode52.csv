@@ -1,0 +1,53 @@
+prefix,Code,Description
+AgeRecode52,1,Under 1 hour (includes not stated hours and minutes)
+AgeRecode52,2,1 - 23 hours
+AgeRecode52,3,1 day (includes not stated days)
+AgeRecode52,4,2 days
+AgeRecode52,5,3 days
+AgeRecode52,6,4 days
+AgeRecode52,7,5 days
+AgeRecode52,8,6 days
+AgeRecode52,9,7 - 13 days (includes not stated weeks)
+AgeRecode52,10,14 - 20 days
+AgeRecode52,11,21 - 27 days
+AgeRecode52,12,1 month (includes not stated months)
+AgeRecode52,13,2 months
+AgeRecode52,14,3 months
+AgeRecode52,15,4 months
+AgeRecode52,16,5 months
+AgeRecode52,17,6 months
+AgeRecode52,18,7 months
+AgeRecode52,19,8 months
+AgeRecode52,20,9 months
+AgeRecode52,21,10 months
+AgeRecode52,22,11 months
+AgeRecode52,23,1 year
+AgeRecode52,24,2 years
+AgeRecode52,25,3 years
+AgeRecode52,26,4 years
+AgeRecode52,27,5 - 9 years
+AgeRecode52,28,10 - 14 years
+AgeRecode52,29,15 - 19 years
+AgeRecode52,30,20 - 24 years
+AgeRecode52,31,25 - 29 years
+AgeRecode52,32,30 - 34 years
+AgeRecode52,33,35 - 39 years
+AgeRecode52,34,40 - 44 years
+AgeRecode52,35,45 - 49 years
+AgeRecode52,36,50 - 54 years
+AgeRecode52,37,55 - 59 years
+AgeRecode52,38,60 - 64 years
+AgeRecode52,39,65 - 69 years
+AgeRecode52,40,70 - 74 years
+AgeRecode52,41,75 - 79 years
+AgeRecode52,42,80 - 84 years
+AgeRecode52,43,85 - 89 years
+AgeRecode52,44,90 - 94 years
+AgeRecode52,45,95 - 99 years
+AgeRecode52,46,100 - 104 years
+AgeRecode52,47,105 - 109 years
+AgeRecode52,48,110 - 114 years
+AgeRecode52,49,115 - 119 years
+AgeRecode52,50,120 - 124 years
+AgeRecode52,51,125 years and over
+AgeRecode52,52,Age not stated

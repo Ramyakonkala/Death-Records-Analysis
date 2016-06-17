@@ -1,0 +1,5 @@
+prefix,Code,Description
+ResidentStatus,1,RESIDENTS
+ResidentStatus,2,INTRASTATE NONRESIDENTS
+ResidentStatus,3,INTERSTATE NONRESIDENTS
+ResidentStatus,4,FOREIGN RESIDENTS

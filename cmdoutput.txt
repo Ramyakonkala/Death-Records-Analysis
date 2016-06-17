@@ -1,0 +1,19 @@
+WARNING: Use "yarn jar" to launch YARN applications.
+packageJobJar: [] [/usr/hdp/2.4.0.0-169/hadoop-mapreduce/hadoop-streaming-2.7.1.2.4.0.0-169.jar] /tmp/streamjob3798401747027010353.jar tmpDir=null
+16/06/16 23:43:56 INFO impl.TimelineClientImpl: Timeline service address: http://sandbox.hortonworks.com:8188/ws/v1/timeline/
+16/06/16 23:44:03 INFO client.RMProxy: Connecting to ResourceManager at sandbox.hortonworks.com/192.168.56.101:8050
+16/06/16 23:44:14 INFO impl.TimelineClientImpl: Timeline service address: http://sandbox.hortonworks.com:8188/ws/v1/timeline/
+16/06/16 23:44:14 INFO client.RMProxy: Connecting to ResourceManager at sandbox.hortonworks.com/192.168.56.101:8050
+16/06/16 23:46:25 WARN hdfs.DFSClient: Slow waitForAckedSeqno took 38387ms (threshold=30000ms)
+16/06/16 23:46:42 INFO mapred.FileInputFormat: Total input paths to process : 25
+16/06/16 23:47:37 INFO mapreduce.JobSubmitter: number of splits:26
+16/06/16 23:48:08 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1466013893373_0003
+16/06/16 23:48:58 INFO impl.YarnClientImpl: Submitted application application_1466013893373_0003
+16/06/16 23:49:10 INFO mapreduce.Job: The url to track the job: http://sandbox.hortonworks.com:8088/proxy/application_1466013893373_0003/
+16/06/16 23:49:10 INFO mapreduce.Job: Running job: job_1466013893373_0003
+16/06/17 00:09:18 INFO mapreduce.Job: Job job_1466013893373_0003 running in uber mode : false
+16/06/17 00:11:08 INFO mapreduce.Job:  map 0% reduce 0%
+16/06/17 00:15:30 INFO mapreduce.Job: Job job_1466013893373_0003 failed with state FAILED due to: Application application_1466013893373_0003 failed 2 times due to ApplicationMaster for attempt appattempt_1466013893373_0003_000002 timed out. Failing the application.
+16/06/17 00:18:27 INFO mapreduce.Job: Counters: 0
+16/06/17 00:18:27 ERROR streaming.StreamJob: Job not successful!
+Streaming Command Failed!

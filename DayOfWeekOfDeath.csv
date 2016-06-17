@@ -1,0 +1,9 @@
+prefix,Code,Description
+DayOfWeekOfDeath,1,Sunday
+DayOfWeekOfDeath,2,Monday
+DayOfWeekOfDeath,3,Tuesday
+DayOfWeekOfDeath,4,Wednesday
+DayOfWeekOfDeath,5,Thursday
+DayOfWeekOfDeath,6,Friday
+DayOfWeekOfDeath,7,Saturday
+DayOfWeekOfDeath,9,Unknown
